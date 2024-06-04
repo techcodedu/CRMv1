@@ -1,7 +1,5 @@
 # CRMv1
- 
 
-# CRMv1
 
 # Comprehensive Front-End User Process Flow for CRM System
 
